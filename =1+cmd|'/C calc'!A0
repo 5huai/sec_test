@@ -1,0 +1,2 @@
+=1+cmd|' /C calc'!A0
+FileInputStream fis = new FileInputStream("/tmp/object");        AntObjectInputStream ois = new AntObjectInputStream(fis);  // AntObjectInputStream class
